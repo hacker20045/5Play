@@ -3,7 +3,7 @@ A cli mp3 player.
 ## Install
 A one-line-command for bash terminals.
 ```sh
-$ git clone https://github.com/5HR3D/5Play.git && cd 5Play &&
+$ git clone https://github.com/5HR3D/5Play.git && cd 5Play && python3 player.py
 ```
 ## Dependencies
 - [pygame](https://www.pygame.org/)
