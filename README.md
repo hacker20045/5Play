@@ -1,10 +1,15 @@
 # 5Play
 A cli mp3 player.
 ## Install
-A one-line-command for bash terminals.
+A one-line-command for bash terminals:
 ```sh
-$ git clone https://github.com/5HR3D/5Play.git && cd 5Play && python3 player.py
+$ git clone https://github.com/5HR3D/5Play.git && cd 5Play && python3 5player.py
 ```
+[Debian] To call 5Play from anywhere in the terminal:
+```sh
+$ git clone https://github.com/5HR3D/5Play.git && cd 5Play && chmod +x 5player.py && sudo cp 5player.py /usr/bin 
+```
+
 ## Dependencies
 - [pygame](https://www.pygame.org/)
 ## Song Info
